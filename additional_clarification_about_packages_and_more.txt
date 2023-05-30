@@ -1,0 +1,17 @@
+Due to a few questions we've received:
+
+- Pandas and Numpy are fine - if you're gonna have to import them to load the Parquet/Pickle file, you might as well use them. It'd be very difficult to beat the performance of both of those packages, so no need to prove the performance benefits of these two. 
+
+- Yes, you are allowed to make edits until the due date even if you have already submitted your links to the form. No edits after the due date will be graded though.
+
+- Due to the sheer number of assessments - providing your outputs in some form of document would be best for everyone especially in the event that we can't run your scripts.
+
+- Yes, you can create additional helper functions - go nuts.
+
+- If you would like to throw your thought process and design choices in a comment block, please do so. We've received a lot of "I think I should do it like this"-type questions - I'm not going to tell you that you're right or wrong. Part of being an engineer is making these decisions and reflecting on them later. Your thought process and creativity holds high value - don't let me take that away from you because you're trying to get the "right" answer to a somewhat open-ended task.
+
+Ex: if you're planning to sacrifice efficiency for readability or modularity, that sounds like a pretty understandable reason to me.
+
+- If you're having trouble working with the parquet file, I've uploaded an additional pickle file or you can try using pyarrow==4.0.1
+
+- PLEASE DON'T FORGET TO MAKE YOUR REPO PUBLIC
